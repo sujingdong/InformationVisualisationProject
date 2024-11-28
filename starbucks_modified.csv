@@ -281,34 +281,6 @@ Cinnamon Dolce Latte,venti,0,591,280,6.0,1.0,0.0,0,160,43,2,38,150,soy
 Cinnamon Dolce Latte,venti,1,591,360,13.0,5.0,0.2,25,160,46,2,40,150,soy
 Cinnamon Dolce Latte,venti,0,591,270,10.0,9.0,0.0,0,180,45,0,42,150,coconut
 Cinnamon Dolce Latte,venti,1,591,350,17.0,14.0,0.2,25,190,47,0,45,150,coconut
-Espresso,solo,0,0,5,0.0,0.0,0.0,0,0,1,0,0,75,none
-Espresso,doppio,0,0,10,0.0,0.0,0.0,0,0,2,0,0,150,none
-Espresso,triple,0,0,15,0.0,0.0,0.0,0,0,3,0,0,225,none
-Espresso,quad,0,0,20,0.0,0.0,0.0,0,0,4,0,0,300,none
-Espresso con panna,solo,1,0,30,2.5,1.5,0.0,10,3,2,0,1,75,none
-Espresso con panna,doppio,1,0,35,2.5,1.5,0.1,10,3,3,0,1,150,none
-Espresso con panna,triple,1,0,40,2.5,1.5,0.1,10,0,4,0,1,225,none
-Espresso con panna,quad,1,0,50,2.5,1.5,0.1,10,0,5,0,1,300,none
-Espresso Macchiato,solo,0,0,5,0.0,0.0,0.0,0,2,1,0,0,75,nonfat
-Espresso Macchiato,solo,0,0,10,0.1,0.0,0.0,0,2,1,0,0,75,2%
-Espresso Macchiato,solo,0,0,10,0.1,0.1,0.0,0,2,1,0,0,75,whole
-Espresso Macchiato,solo,0,0,5,0.1,0.0,0.0,0,2,1,0,0,75,soy
-Espresso Macchiato,solo,0,0,5,0.1,0.1,0.0,0,2,1,0,0,75,coconut
-Espresso Macchiato,doppio,0,0,15,0.0,0.0,0.0,0,2,2,0,0,150,nonfat
-Espresso Macchiato,doppio,0,0,15,0.1,0.0,0.0,0,2,2,0,0,150,2%
-Espresso Macchiato,doppio,0,0,15,0.1,0.0,0.0,0,2,2,0,0,150,whole
-Espresso Macchiato,doppio,0,0,15,0.1,0.0,0.0,0,2,2,0,0,150,soy
-Espresso Macchiato,doppio,0,0,10,0.1,0.1,0.0,0,2,2,0,0,150,coconut
-Espresso Macchiato,triple,0,0,20,0.0,0.0,0.0,0,2,3,0,0,225,nonfat
-Espresso Macchiato,triple,0,0,20,0.1,0.0,0.0,0,2,3,0,0,225,2%
-Espresso Macchiato,triple,0,0,20,0.1,0.0,0.0,0,2,3,0,0,225,whole
-Espresso Macchiato,triple,0,0,20,0.1,0.0,0.0,0,2,3,0,0,225,soy
-Espresso Macchiato,triple,0,0,20,0.1,0.1,0.0,0,2,3,0,0,225,coconut
-Espresso Macchiato,quad,0,0,25,0.0,0.0,0.0,0,2,4,0,0,300,nonfat
-Espresso Macchiato,quad,0,0,25,0.1,0.0,0.0,0,2,4,0,0,300,2%
-Espresso Macchiato,quad,0,0,25,0.1,0.0,0.0,0,2,4,0,0,300,whole
-Espresso Macchiato,quad,0,0,25,0.1,0.0,0.0,0,2,4,0,0,300,soy
-Espresso Macchiato,quad,0,0,25,0.1,0.1,0.0,0,2,4,0,0,300,coconut
 Flat White,short,0,236,60,0.1,0.1,0.0,5,70,9,0,8,130,nonfat
 Flat White,short,0,236,90,3.5,2.0,0.1,15,80,9,0,8,130,2%
 Flat White,short,0,236,110,5.0,3.0,0.2,15,70,9,0,8,130,whole
@@ -1143,6 +1115,3 @@ White Hot Chocolate,venti,0,591,470,14.0,7.0,0.0,5,290,69,2,65,0,soy
 White Hot Chocolate,venti,1,591,540,21.0,11.0,0.2,30,300,71,2,67,0,soy
 White Hot Chocolate,venti,0,591,450,17.0,15.0,0.0,5,310,71,0,69,0,coconut
 White Hot Chocolate,venti,1,591,520,24.0,20.0,0.2,30,320,73,0,71,0,coconut
-Protein & Fibre Powder,1 scoop,0,0,30,0.1,0.1,0.0,0,45,1,1,0,0,none
-Matcha Green Tea Powder,1 scoop,0,0,25,0.1,0.0,0.0,0,0,6,0,5,25,none
-Espresso shot,1 shot,0,0,5,0.1,0.0,0.0,0,0,1,0,0,75,none

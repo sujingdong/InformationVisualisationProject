@@ -7478,7 +7478,6 @@ Mixed,Foil Individual 1A,Silver,BEL,Fencing,1980
 Mixed,Foil Individual 1A,Bronze,GBR,Fencing,1980
 Mixed,Foil Individual 1B,Gold,ITA,Fencing,1980
 Mixed,Foil Individual 1B,Silver,ITA,Fencing,1980
-Mixed,Foil Individual 1B,Bronze,-,Fencing,1980
 Mixed,Foil Individual 1C,Gold,FRG,Fencing,1980
 Mixed,Foil Individual 1C,Silver,ITA,Fencing,1980
 Mixed,Foil Individual 1C,Bronze,FRA,Fencing,1980
@@ -7502,7 +7501,6 @@ Men,Epee Individual 4-5,Silver,FRA,Fencing,1984
 Men,Epee Individual 4-5,Bronze,KUW,Fencing,1984
 Men,Foil Individual 2-3,Gold,FRA,Fencing,1984
 Men,Foil Individual 2-3,Silver,FRG,Fencing,1984
-Men,Foil Individual 2-3,Bronze,-,Fencing,1984
 Men,Foil Individual 4-5,Gold,FRA,Fencing,1984
 Men,Foil Individual 4-5,Silver,FRA,Fencing,1984
 Men,Foil Individual 4-5,Bronze,GBR,Fencing,1984
@@ -7511,7 +7509,6 @@ Men,Foil Individual 1B,Silver,ITA,Fencing,1984
 Men,Foil Individual 1B,Bronze,GBR,Fencing,1984
 Men,Foil Individual 1C,Gold,FRG,Fencing,1984
 Men,Foil Individual 1C,Silver,FRA,Fencing,1984
-Men,Foil Individual 1C,Bronze,-,Fencing,1984
 Men,Sabre Individual 2-3,Gold,FRA,Fencing,1984
 Men,Sabre Individual 2-3,Silver,ITA,Fencing,1984
 Men,Sabre Individual 2-3,Bronze,GBR,Fencing,1984
@@ -7525,8 +7522,6 @@ Women,Foil Individual 4-5,Gold,HKG,Fencing,1984
 Women,Foil Individual 4-5,Silver,FRA,Fencing,1984
 Women,Foil Individual 4-5,Bronze,FRA,Fencing,1984
 Women,Foil Individual 1C,Gold,FRA,Fencing,1984
-Women,Foil Individual 1C,Silver,-,Fencing,1984
-Women,Foil Individual 1C,Bronze,-,Fencing,1984
 Men,Epee Team,Gold,FRA,Fencing,1984
 Men,Epee Team,Silver,FRG,Fencing,1984
 Men,Epee Team,Bronze,HKG,Fencing,1984
@@ -13999,7 +13994,6 @@ Men,Singles 1C,Silver,FRA,Table Tennis,1984
 Men,Singles 1C,Bronze,FRG,Table Tennis,1984
 Men,Singles C1,Gold,AUS,Table Tennis,1984
 Men,Singles C1,Silver,GBR,Table Tennis,1984
-Men,Singles C1,Bronze,-,Table Tennis,1984
 Men,Singles C2,Gold,SWE,Table Tennis,1984
 Men,Singles C2,Silver,BEL,Table Tennis,1984
 Men,Singles C2,Bronze,BEL,Table Tennis,1984
@@ -14052,7 +14046,6 @@ Women,Singles 1B,Silver,NOR,Table Tennis,1984
 Women,Singles 1B,Bronze,SUI,Table Tennis,1984
 Women,Singles 1C,Gold,GBR,Table Tennis,1984
 Women,Singles 1C,Silver,GBR,Table Tennis,1984
-Women,Singles 1C,Bronze,-,Table Tennis,1984
 Women,Singles C3,Gold,FRA,Table Tennis,1984
 Women,Singles C3,Silver,GBR,Table Tennis,1984
 Women,Singles C3,Bronze,CAN,Table Tennis,1984
@@ -14068,7 +14061,6 @@ Women,Singles L4,Bronze,GBR,Table Tennis,1984
 Women,Singles L4,Bronze,NOR,Table Tennis,1984
 Women,Singles L5,Gold,DEN,Table Tennis,1984
 Women,Singles L5,Silver,CHN,Table Tennis,1984
-Women,Singles L5,Bronze,-,Table Tennis,1984
 Women,Open CL,Gold,DEN,Table Tennis,1984
 Women,Open CL,Silver,FRA,Table Tennis,1984
 Women,Open CL,Bronze,BEL,Table Tennis,1984
@@ -14960,7 +14952,6 @@ Men,Singles 1C,Silver,FRA,Wheelchair Tennis,1984
 Men,Singles 1C,Bronze,FRG,Wheelchair Tennis,1984
 Men,Singles C1,Gold,AUS,Wheelchair Tennis,1984
 Men,Singles C1,Silver,GBR,Wheelchair Tennis,1984
-Men,Singles C1,Bronze,-,Wheelchair Tennis,1984
 Men,Singles C2,Gold,SWE,Wheelchair Tennis,1984
 Men,Singles C2,Silver,BEL,Wheelchair Tennis,1984
 Men,Singles C2,Bronze,BEL,Wheelchair Tennis,1984
@@ -15013,7 +15004,6 @@ Women,Singles 1B,Silver,NOR,Wheelchair Tennis,1984
 Women,Singles 1B,Bronze,SUI,Wheelchair Tennis,1984
 Women,Singles 1C,Gold,GBR,Wheelchair Tennis,1984
 Women,Singles 1C,Silver,GBR,Wheelchair Tennis,1984
-Women,Singles 1C,Bronze,-,Wheelchair Tennis,1984
 Women,Singles C3,Gold,FRA,Wheelchair Tennis,1984
 Women,Singles C3,Silver,GBR,Wheelchair Tennis,1984
 Women,Singles C3,Bronze,CAN,Wheelchair Tennis,1984
@@ -15029,7 +15019,6 @@ Women,Singles L4,Bronze,GBR,Wheelchair Tennis,1984
 Women,Singles L4,Bronze,NOR,Wheelchair Tennis,1984
 Women,Singles L5,Gold,DEN,Wheelchair Tennis,1984
 Women,Singles L5,Silver,CHN,Wheelchair Tennis,1984
-Women,Singles L5,Bronze,-,Wheelchair Tennis,1984
 Women,Open CL,Gold,DEN,Wheelchair Tennis,1984
 Women,Open CL,Silver,FRA,Wheelchair Tennis,1984
 Women,Open CL,Bronze,BEL,Wheelchair Tennis,1984

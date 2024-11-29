@@ -271,15 +271,6 @@ Women,Individual Compound Open,Bronze,KOR,Archery,2016,South Korea
 Women,Individual Recurve Open,Gold,IRI,Archery,2016,Iran
 Women,Individual Recurve Open,Silver,CHN,Archery,2016,China
 Women,Individual Recurve Open,Bronze,POL,Archery,2016,Poland
-Mixed,Team W1,Gold,GBR,Archery,2016,Great Britain
-Mixed,Team W1,Silver,KOR,Archery,2016,South Korea
-Mixed,Team W1,Bronze,CZE,Archery,2016,Czech Republic
-Mixed,Team Compound Open,Gold,CHN,Archery,2016,China
-Mixed,Team Compound Open,Silver,GBR,Archery,2016,Great Britain
-Mixed,Team Compound Open,Bronze,KOR,Archery,2016,South Korea
-Mixed,Team Recurve Open,Gold,CHN,Archery,2016,China
-Mixed,Team Recurve Open,Silver,IRI,Archery,2016,Iran
-Mixed,Team Recurve Open,Bronze,ITA,Archery,2016,Italy
 Men,60 m 1A,Gold,MEX,Athletics,1980,Mexico
 Men,60 m 1A,Silver,CAN,Athletics,1980,Canada
 Men,60 m 1A,Bronze,SUI,Athletics,1980,Switzerland
@@ -2284,9 +2275,6 @@ Women,Pentathlon 5,Bronze,MEX,Athletics,1984,Mexico
 Women,Pentathlon 6,Gold,FRA,Athletics,1984,France
 Women,Pentathlon 6,Silver,ISR,Athletics,1984,Israel
 Women,Pentathlon 6,Bronze,BAH,Athletics,1984,Bahamas
-Mixed,3x60 m C2-3,Gold,USA,Athletics,1984,United States
-Mixed,3x60 m C2-3,Silver,CAN,Athletics,1984,Canada
-Mixed,3x60 m C2-3,Bronze,GBR,Athletics,1984,Great Britain
 Men,100 m B1,Bronze,POL,Athletics,1984,Poland
 Men,400 m B2,Silver,YUG,Athletics,1984,Yugoslavia
 Men,High Jump A2,Silver,NED,Athletics,1984,Netherlands
@@ -3365,9 +3353,6 @@ Women,4x200 m 2-6,Bronze,ITA,Athletics,1988,Italy
 Women,4x400 m 2-6,Gold,USA,Athletics,1988,United States
 Women,4x400 m 2-6,Silver,AUS,Athletics,1988,Australia
 Women,4x400 m 2-6,Bronze,ITA,Athletics,1988,Italy
-Mixed,4x100 m C2-3,Gold,IRL,Athletics,1988,Ireland
-Mixed,4x100 m C2-3,Silver,USA,Athletics,1988,United States
-Mixed,4x100 m C2-3,Bronze,CAN,Athletics,1988,Canada
 Men,100 m TS1,Gold,USA,Athletics,1992,United States
 Men,100 m TS1,Silver,SUI,Athletics,1992,Switzerland
 Men,100 m TS1,Bronze,GER,Athletics,1992,Germany
@@ -7473,14 +7458,6 @@ Women,Foil Individual 4-5,Bronze,ISR,Fencing,1980,Israel
 Women,Foil Novice Individual,Gold,ITA,Fencing,1980,Italy
 Women,Foil Novice Individual,Silver,NED,Fencing,1980,Netherlands
 Women,Foil Novice Individual,Bronze,NED,Fencing,1980,Netherlands
-Mixed,Foil Individual 1A,Gold,ITA,Fencing,1980,Italy
-Mixed,Foil Individual 1A,Silver,BEL,Fencing,1980,Belgium
-Mixed,Foil Individual 1A,Bronze,GBR,Fencing,1980,Great Britain
-Mixed,Foil Individual 1B,Gold,ITA,Fencing,1980,Italy
-Mixed,Foil Individual 1B,Silver,ITA,Fencing,1980,Italy
-Mixed,Foil Individual 1C,Gold,FRG,Fencing,1980,West Germany
-Mixed,Foil Individual 1C,Silver,ITA,Fencing,1980,Italy
-Mixed,Foil Individual 1C,Bronze,FRA,Fencing,1980,France
 Men,Epee Team,Gold,FRA,Fencing,1980,France
 Men,Epee Team,Silver,GBR,Fencing,1980,Great Britain
 Men,Epee Team,Bronze,FRG,Fencing,1980,West Germany
@@ -8263,21 +8240,6 @@ Women,-86 kg,Bronze,MEX,Powerlifting,2016,Mexico
 Women,+86 kg,Gold,NGR,Powerlifting,2016,Nigeria
 Women,+86 kg,Silver,POL,Powerlifting,2016,Poland
 Women,+86 kg,Bronze,NED,Powerlifting,2016,Netherlands
-Mixed,Wheelchair Rugby,Gold,USA,Rugby,2000,United States
-Mixed,Wheelchair Rugby,Silver,AUS,Rugby,2000,Australia
-Mixed,Wheelchair Rugby,Bronze,NZL,Rugby,2000,New Zealand
-Mixed,Wheelchair Rugby,Gold,NZL,Rugby,2004,New Zealand
-Mixed,Wheelchair Rugby,Silver,CAN,Rugby,2004,Canada
-Mixed,Wheelchair Rugby,Bronze,USA,Rugby,2004,United States
-Mixed,Wheelchair Rugby,Gold,USA,Rugby,2008,United States
-Mixed,Wheelchair Rugby,Silver,AUS,Rugby,2008,Australia
-Mixed,Wheelchair Rugby,Bronze,CAN,Rugby,2008,Canada
-Mixed,Wheelchair Rugby,Gold,AUS,Rugby,2012,Australia
-Mixed,Wheelchair Rugby,Silver,CAN,Rugby,2012,Canada
-Mixed,Wheelchair Rugby,Bronze,USA,Rugby,2012,United States
-Mixed,Wheelchair Rugby,Gold,AUS,Rugby,2016,Australia
-Mixed,Wheelchair Rugby,Silver,USA,Rugby,2016,United States
-Mixed,Wheelchair Rugby,Bronze,JPN,Rugby,2016,Japan
 Men,25 m Freestyle 1A,Gold,GBR,Swimming,1980,Great Britain
 Men,25 m Freestyle 1A,Silver,FIN,Swimming,1980,Finland
 Men,25 m Freestyle 1A,Bronze,FRG,Swimming,1980,West Germany
@@ -13876,9 +13838,6 @@ Women,4x100 m Freestyle 34pts,Bronze,CHN,Swimming,2016,China
 Women,4x100 m Medley 34pts,Gold,GBR,Swimming,2016,Great Britain
 Women,4x100 m Medley 34pts,Silver,AUS,Swimming,2016,Australia
 Women,4x100 m Medley 34pts,Bronze,USA,Swimming,2016,United States
-Mixed,4x50 m Freestyle 20pts,Gold,CHN,Swimming,2016,China
-Mixed,4x50 m Freestyle 20pts,Silver,BRA,Swimming,2016,Brazil
-Mixed,4x50 m Freestyle 20pts,Bronze,UKR,Swimming,2016,Ukraine
 Men,Singles 2,Gold,AUT,Table Tennis,1980,Austria
 Men,Singles 2,Silver,KOR,Table Tennis,1980,South Korea
 Men,Singles 2,Bronze,USA,Table Tennis,1980,United States
